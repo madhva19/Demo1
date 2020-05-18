@@ -1,1 +1,5 @@
 hello data
+
+hello db data 
+this is from remote
+main global
